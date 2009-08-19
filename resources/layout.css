@@ -1,0 +1,40 @@
+/* 
+    Document   : layout
+    Created on : Aug 18, 2009, 1:50:22 PM
+    Author     : fdorigo
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+#container {
+  margin:auto;
+  width: 1024px;
+  background: #ffffff;
+}
+
+#header {
+background: #DDDDDD;
+}
+
+#leftBar {
+float: left;
+width: 150px;
+background: #EBEBEB;
+}
+
+#content {
+float:left;
+width:450px;
+background-color: #cdcde6;
+}
+
+#rightBar {
+float:right;
+width: 160px;
+background: #EBEBEB;
+}
+
+#footer {
+clear:both;
+background:#DDDDDD;
+}
